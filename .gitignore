@@ -1,6 +1,5 @@
 ### Maven ###
 target/
-!.mvn/wrapper/maven-wrapper.jar
 
 ### IntelliJ IDEA ###
 .idea/
@@ -38,7 +37,4 @@ Thumbs.db
 
 ### Env files ###
 .env
-
-### Optional: keep wrapper, ignore rest of .mvn ###
 .mvn/*
-!.mvn/wrapper/
