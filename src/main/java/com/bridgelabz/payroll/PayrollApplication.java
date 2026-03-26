@@ -8,7 +8,7 @@ public class PayrollApplication {
         try (Connection connection =
                      PayrollDBService.getConnection()) {
 
-            System.out.println("Connection Established Successfully!");
+            System.out.println("Connection Established Successfully!!");
 
         } catch (Exception e) {
             System.out.println("Connection Failed!");
